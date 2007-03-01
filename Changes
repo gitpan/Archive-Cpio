@@ -1,0 +1,5 @@
+0.02 Wed Feb 28 17:10:49 CET 2007
+     - fix padding at end of generated cpio
+
+0.01 Wed Feb 28 17:10:49 CET 2007
+     - initial release
