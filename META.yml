@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Archive-Cpio
-version:            0.08
+version:            0.09
 abstract:           module for manipulations of cpio archives
 author:
     - Pixel <pixel@rigaux.org>
